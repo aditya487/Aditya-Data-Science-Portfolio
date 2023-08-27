@@ -29,7 +29,7 @@ _Jan 2020 - May 2020_
 
 ## Projects 🛠
 
-### [Enhancing Art Classification 🎨]([your-github-repo-link](https://github.com/aditya487/ArtClassification))
+### [Enhancing Art Classification 🎨](https://github.com/aditya487/ArtClassification)
 - **Technology Stack**: Python, NumPy, Pandas, Torch, OpenCV
 - **Results**: Achieved 72% classification accuracy with ResNet50
 - **Details**: [README](https://github.com/aditya487/ArtClassification#readme)
