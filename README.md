@@ -1,7 +1,5 @@
 # Aditya Prakash's Data Science Portfolio 📊
 
-Dublin, Ireland | 📞 +353 892187245 | 📧 [aditya.prakash1722@gmail.com](mailto:aditya.prakash1722@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-prakash-b62151131/)
-
 ## Education 🎓
 
 - **University College Dublin**  
